@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/07/04 18:10:23.627.pas,C:\Users\lucav\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\lucav\Desktop\School\Grade 11\Gr 11 PAT\Poker PAT 2019 LVM\frmPokerLVM_u.pas</Transaction>
+    <Transaction>2019/07/04 18:10:23.627.dfm,C:\Users\lucav\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\lucav\Desktop\School\Grade 11\Gr 11 PAT\Poker PAT 2019 LVM\frmPokerLVM_u.dfm</Transaction>
+    <Transaction>2019/07/04 18:10:38.248.dproj,C:\Users\lucav\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\lucav\Desktop\School\Grade 11\Gr 11 PAT\Poker PAT 2019 LVM\frmPokerLVM_p.dproj</Transaction>
+    <Transaction>2019/07/07 10:27:03.150.pas,C:\Users\lucav\Desktop\School\Grade 11\Gr 11 PAT\Poker PAT 2019 LVM\frmMainGame_u.pas=C:\Users\lucav\Desktop\School\Grade 11\Gr 11 PAT\Poker PAT 2019 LVM\frmBaseGameLVM_u.pas</Transaction>
+    <Transaction>2019/07/07 10:27:03.150.dfm,C:\Users\lucav\Desktop\School\Grade 11\Gr 11 PAT\Poker PAT 2019 LVM\frmMainGame_u.dfm=C:\Users\lucav\Desktop\School\Grade 11\Gr 11 PAT\Poker PAT 2019 LVM\frmBaseGameLVM_u.dfm</Transaction>
+    <Transaction>2019/07/07 10:29:58.825.pas,C:\Users\lucav\Desktop\School\Grade 11\Gr 11 PAT\Poker PAT 2019 LVM\frmBaseGameLVM_u.pas=</Transaction>
+    <Transaction>2019/07/07 10:29:58.825.dfm,C:\Users\lucav\Desktop\School\Grade 11\Gr 11 PAT\Poker PAT 2019 LVM\frmBaseGameLVM_u.dfm=</Transaction>
+    <Transaction>2019/09/27 21:42:37.403.pas,C:\Users\lucav\Desktop\School\Grade 11\Gr 11 PAT\Poker PAT 2019 LVM\Unit1.pas=C:\Users\lucav\Desktop\School\Grade 11\Gr 11 PAT\Poker PAT 2019 LVM\dmLoginStats_u.pas</Transaction>
+    <Transaction>2019/09/27 21:42:37.403.dfm,C:\Users\lucav\Desktop\School\Grade 11\Gr 11 PAT\Poker PAT 2019 LVM\Unit1.dfm=C:\Users\lucav\Desktop\School\Grade 11\Gr 11 PAT\Poker PAT 2019 LVM\dmLoginStats_u.dfm</Transaction>
+    <Transaction>2019/10/07 18:49:18.642.pas,C:\Users\lucav\Desktop\School\Grade 11\Gr 11 PAT\Poker PAT 2019 LVM\Unit1.pas=C:\Users\lucav\Desktop\School\Grade 11\Gr 11 PAT\Poker PAT 2019 LVM\frmAccountsAndStats_u.pas</Transaction>
+    <Transaction>2019/10/07 18:49:18.642.dfm,C:\Users\lucav\Desktop\School\Grade 11\Gr 11 PAT\Poker PAT 2019 LVM\Unit1.dfm=C:\Users\lucav\Desktop\School\Grade 11\Gr 11 PAT\Poker PAT 2019 LVM\frmAccountsAndStats_u.dfm</Transaction>
+    <Transaction>2019/10/07 18:50:06.490.dproj,C:\Users\lucav\Desktop\School\Grade 11\Gr 11 PAT\Poker PAT 2019 LVM\frmPokerLVM_p.dproj=C:\Users\lucav\Desktop\School\Grade 11\Gr 11 PAT\Poker PAT 2019 LVM\frmAccountsAndStats_p.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

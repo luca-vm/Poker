@@ -1,0 +1,12 @@
+List of hands:
+
+* Royal Flush - TJQKA all of the same suit. This is the best possible hand in Hold 'em.  
+* Straight Flush - 5 cards in consecutive order all of the same suit. Excluding the TJQKA since this is the royal flush. 
+* Four of a Kind - Four cards of the same rank. This leaves room for one "kicker" which determines the winner if two players hold the same four of a kind. 
+* Full House - Three of a Kind plus a pair at the same time. 
+* Flush - Five cards of the same suit. The higher the ranks of the cards, the stronger the flush. 
+* Straight - Five cards in consecutive rank order. 
+* Two Pair - Two sets of one pair. This leaves room for one kicker in case two player make the same two pair. 
+* Three of a Kind - Three cards all of the same rank. This leaves room for two kickers in case two players make the same three of a kind. 
+* One Pair - Two cards of the same rank. This leaves room for three kickers. 
+

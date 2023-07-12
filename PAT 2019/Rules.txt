@@ -1,0 +1,22 @@
+Terms to know:
+
+Bet – Make the first wager on the current betting round (if no bet has been made before). 
+Raise – Increase the size of the wager during the current round. 
+Check – Don’t bet any money and continue with the hand. (Only allowed if there is no bet or raise)
+Call – Match the bet on the current betting round. 
+Fold – Discard your cards rather than calling the existing wager during the current round, by folding you forfeit the right to winning the pot.
+
+Gameplay:
+
+* Before any cards are dealt, players are required to make blind payments known as the “small blind” and the “big blind” these payments are contributed to the pot by the small blind and big blind players. 
+* Each player at the table is dealt two cards known as “hole cards” which they will use to make a five-card hand.
+* The first round is known as the ‘preflop’.
+* After the preflop, three cards are dealt face up in the centre of the table known as the ‘flop’. These are “community cards” that all players at the table can use to make their hand.
+* The flop betting round begins, starting with the small blind.
+* After the flop betting round, a single community card known as the ‘turn’ card is dealt face up on the centre of the table alongside the ‘flop’. 
+* The ‘turn’ round takes place.
+* After the ‘turn’ round, a final community card known as the ‘river’ card is dealt face up on the centre of the table alongside the ‘turn’ card and the ‘flop’.  
+* The river betting round takes place.
+* After the ‘river’ round, any players remaining must reveal the strength of their hand they have constructed. This is known as ‘showdown’. The best hand wins the pot.
+* If all the players (except one) fold, then the pot is awarded to the last remaining player.
+
